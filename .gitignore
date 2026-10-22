@@ -1,0 +1,16 @@
+node_modules/
+public/
+dist/
+.vercel/
+.openai/
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*.log
+.DS_Store
+coverage/
+.worktrees/
+.superpowers/
